@@ -18,7 +18,7 @@ Build a professional, single-page portfolio website for a corporate tax analyst.
 
 **Name:** Toms Thankachan
 
-**Title/Tagline:** Aspiring Corporate Tax Analyst
+**Title/Tagline:** Corporate Tax Analyst
 
 **Location:** Kerala, India | Open to Relocation: Bengaluru
 
