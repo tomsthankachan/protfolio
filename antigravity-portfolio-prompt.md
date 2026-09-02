@@ -1,4 +1,4 @@
-# Antigravity Build Prompt — Corporate Tax Analyst Portfolio Site
+# Antigravity Build Prompt — Tax Analyst Portfolio Site
 
 Paste this directly into Antigravity as the build instruction.
 
@@ -6,7 +6,7 @@ Paste this directly into Antigravity as the build instruction.
 
 ## PROMPT
 
-Build a professional, single-page portfolio website for a corporate tax analyst. Use ONLY the information provided below — do not invent, infer, or add any skills, tools, employers, achievements, or metrics beyond what is explicitly listed.
+Build a professional, single-page portfolio website for a tax analyst. Use ONLY the information provided below — do not invent, infer, or add any skills, tools, employers, achievements, or metrics beyond what is explicitly listed.
 
 ### Design Requirements
 - Light color theme only — no dark backgrounds or dark mode. Use a clean white/off-white base (e.g. #FAFAFA or #FFFFFF) with one restrained accent color suited to a finance/tax profession (e.g. navy, deep teal, or slate blue) for headings, buttons, and links.
@@ -18,7 +18,7 @@ Build a professional, single-page portfolio website for a corporate tax analyst.
 
 **Name:** Toms Thankachan
 
-**Title/Tagline:** Corporate Tax Analyst
+**Title/Tagline:** Tax Analyst
 
 **Location:** Kerala, India | Open to Relocation: Bengaluru
 
